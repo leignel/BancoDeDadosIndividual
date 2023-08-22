@@ -19,7 +19,8 @@
 - <img src="https://github.com/leignel/BancoDeDadosIndividual/assets/141193350/39040170-4fb3-4955-b438-58cde5253262" height="50" width="50" > [Postgressql](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) 
 
 ## Fluxogramas utilizados
-![TerraSec drawio](https://github.com/leignel/BancoDeDadosIndividual/assets/141193350/6c10a0e6-f3bb-4ea2-b595-b5476a9361d0)
+![Fluxograma](https://github.com/leignel/BancoDeDadosIndividual/assets/141193350/457dbb07-3cdf-408c-abf3-b351e7fc668f)
+
 
 ## Autor
 - <img src="https://cdn.discordapp.com/attachments/1135262336819679372/1140675577733464254/github-logo-git-hub-icon-with-text-on-white-and-black-background-free-vector_2-removebg-preview.png" height="50" width="50" /> [Cristian Leignel](https://github.com/leignel)
