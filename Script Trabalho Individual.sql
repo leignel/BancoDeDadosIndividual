@@ -12,8 +12,8 @@ create table Habilidade( -- criação da tabela Habilidade
 );
 
 create table ResidentHabilidade( -- criação da tabela intermediária
-	resid_id serial not null,
-	hab_id serial not null,
+	resid_id id not null,
+	hab_id id not null,
 	foreign key (resid_id) references Residente(resid_id),
 	foreign key (hab_id) references Habilidade(hab_id),
 	primary key (resid_id, hab_id)
