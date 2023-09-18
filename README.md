@@ -1,6 +1,6 @@
 <h1 align="center"> 🎲 Bem vindos à Tec Serra! 🎲</h1>
 <base target="_blank">
-<h1 align="center"><center><img src="https://github.com/leignel/BancoDeDadosIndividual/assets/141193350/ec6cd5c8-a7ec-4067-85b8-6210bcdadb01" width="600"></center></h1>
+<h1 align="center"><center><img src="https://github.com/leignel/BancoDeDadosIndividual/assets/141193350/e886bb4f-9771-437b-921f-50357d65d4a7" width="600"></center></h1>
 
   A Terra Sec é uma organização que se dedica a capacitar talentos a profissionais de tecnologia. Com foco em desenvolvimento de software, a Terra Sec criou um banco de dados para rastrear os residentes e suas competências em várias áreas da tecnologia.
 
@@ -15,11 +15,12 @@
 <i>O Banco contém informações como nome dos residentes, matrícula, e-mail e habilidades</i>
 
 ## Tecnologias Utilizadas 
-- <img src="https://github.com/leignel/BancoDeDadosIndividual/assets/141193350/3bce26c4-e151-4a50-b1b6-3ba2bf3fc0c5" height="50" width="50" > [DBeaver](https://dbeaver.io/) 
-- <img src="https://github.com/leignel/BancoDeDadosIndividual/assets/141193350/39040170-4fb3-4955-b438-58cde5253262" height="50" width="50" > [Postgressql](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) 
+- <img src="https://github.com/leignel/BancoDeDadosIndividual/assets/141193350/57d4c306-1054-44ca-8be4-ef61ec9a2f95" height="50" width="50" > [DBeaver](https://dbeaver.io/) 
+- <img src="https://github.com/leignel/BancoDeDadosIndividual/assets/141193350/e518af3a-f7d9-4295-8cb2-3c3e522a1d24" height="50" width="50" > [Postgressql](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) 
 
-## Fluxogramas utilizados
-![Fluxograma](https://github.com/leignel/BancoDeDadosIndividual/assets/141193350/457dbb07-3cdf-408c-abf3-b351e7fc668f)
+## Diagramas Utilizados
+![image](https://github.com/leignel/BancoDeDadosIndividual/assets/141193350/26a86213-88cb-4395-a683-79c6678b36e8)
+
 
 
 ## Autor
